@@ -1,0 +1,4 @@
+    // activityResuming(com.yunmall.lc)
+    // activityResuming(com.yunmall.lc)
+Events injected: 500
+## Network stats: elapsed time=4419ms (0ms mobile, 0ms wifi, 4419ms not connected)
